@@ -6,7 +6,7 @@ var fs = require('fs');
 // -->COMMANDS<--
 
 bot.on('guildMemberAdd',member =>{
-    member.send('**Biz Büüymekte Olan Bir Discord Sunucusuyuz** https://discord.gg/b7K4f3e');
+    member.send('**Biz Büyümekte Olan Bir Discord Sunucusuyuz** https://discord.gg/p5PSTYC  https://discord.gg/KRJDE3H');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
 
@@ -14,7 +14,7 @@ bot.on('guildMemberAdd',member =>{
 
 
 bot.on('guildMemberRemove', member=>{
-     member.send('**Biz Büüymekte Olan Bir Discord Sunucusuyuz** https://discord.gg/b7K4f3e');
+     member.send('**Biz Büyümekte Olan Bir Discord Sunucusuyuz** https://discord.gg/p5PSTYC  https://discord.gg/KRJDE3H');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
   

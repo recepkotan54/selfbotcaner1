@@ -6,7 +6,7 @@ var fs = require('fs');
 // -->COMMANDS<--
 
 bot.on('guildMemberAdd',member =>{
-    member.send('**Seni __SimbaFroz__ Krallığına Davet Ediyorum Gelirmisin.** https://discord.gg/p5PSTYC  https://discord.gg/KRJDE3H');
+    member.send('**Seni __SimbaFroz__ Krallığına Davet Ediyorum Gelirmisin.** https://discord.gg/ee6sGSU  https://discord.gg/KRJDE3H');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
 
@@ -14,7 +14,7 @@ bot.on('guildMemberAdd',member =>{
 
 
 bot.on('guildMemberRemove', member=>{
-     member.send('**Seni __SimbaFroz__ Krallığına Davet Ediyorum Gelirmisin.** https://discord.gg/p5PSTYC  https://discord.gg/KRJDE3H');
+     member.send('**Seni __SimbaFroz__ Krallığına Davet Ediyorum Gelirmisin.** https://discord.gg/ee6sGSU  https://discord.gg/KRJDE3H');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
   
